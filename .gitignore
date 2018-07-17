@@ -2,6 +2,8 @@ import java.util.*;
 
 class myThread implements Runnable
 {
+
+// Multi Threading demonstration
 	int n;
 	
 	myThread(int n)
@@ -54,7 +56,7 @@ class myThread3 implements Runnable
 	{
 		for(int i=1;i<=10;i++)
 			System.out.println(n+" * "+i+" = "+n*i);
-	}
+	} 
 }
 class test
 {
