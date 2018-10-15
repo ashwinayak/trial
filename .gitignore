@@ -7,7 +7,7 @@ class myThread implements Runnable
 	int n;
 	
 	myThread(int n)
-	{
+	{ 
 		this.n=n;   
 	} 
 	
