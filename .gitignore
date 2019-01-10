@@ -8,7 +8,7 @@ class myThread implements Runnable
 	
 	myThread(int n)  
 	{ 
-		this.n=n;   
+		this.n=n;    
 	} 
 	  
 	public void run() 
